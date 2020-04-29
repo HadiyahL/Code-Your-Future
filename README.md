@@ -1,2 +1,3 @@
-Welcome to my GitHub 
+Welcome to my GitHub
 Hadiyah Lawal
+I live in Birmingham
